@@ -4,7 +4,7 @@
 
 Acala and all Substrate-based chains are fundamentally different from Ethereum. If we are trying to emulate an Ethereum node, we will suffer from the worst of both worlds. It will be a step backward for us to inherit all the restrictions from a legacy blockchain platform.
 
-We see EVM as one part of the Acala/Substrate/Polkadot, together the Acala network will provide a categorically different experience. Acala EVM will try to achieve these design goals
+We see EVM as one part of the Acala/Substrate/Polkadot, together the Acala network will provide a categorically different experience. Acala EVM will try to achieve these design goals:
 
 1. Enable users to have a complete full-stack Acala \(and Substrate\) experience seamlessly with a single wallet.
 2. Enable protocol composability for EVM and runtime
